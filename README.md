@@ -4,27 +4,28 @@
 
 ## 기술 스택
 
-- 언어
+- 개발 언어
   - **Java**
   - **JavaScript**
   - C
   - Go
   - Node.js
-- 라이브러리/프레임워크
-  - **jQuery / jQuery UI**
+- 라이브러리 / 프레임워크
   - **Spring Framework**
-  - MyBatis
-  - Lombok
+  - **jQuery / jQuery UI**
+  - **React**
+- 그 외
+  - Kubernetes(k8s)
 
 ## 프로젝트 목록
 
-- [RemoteFileSender (2020.02 ~ )](https://github.com/mjin1220/dev-log/#remote-file-sender-202002)
+- [RemoteFileSender (2020.02)](https://github.com/mjin1220/dev-log/#remote-file-sender-202002)
 - [StopBus (2018.03 ~ 2018.06)](https://github.com/mjin1220/dev-log/#stop-bus-201803201806)
 - [Air Bonobono (2018.03)](https://github.com/mjin1220/dev-log/#air-bonobono-201803)
 - [ajou-noticer (2018.01 ~ 2018.03)](https://github.com/mjin1220/dev-log/#ajou-noticer-201801201803)
 - [gongali (2017.11 ~ 2017.12)](https://github.com/mjin1220/dev-log/#gongali-201711201712)
 
-## [Remote File Sender](https://github.com/mjin1220/RemoteFileSender) (2020.02~)
+## [Remote File Sender](https://github.com/mjin1220/RemoteFileSender) (2020.02)
 
 `#go` `#sftp tool`
 
@@ -44,7 +45,7 @@ Config 파일은 크게 서버와 파일에 대한 정보를 가지고 있고, �
 
 > TO-DO: 최근 이력 저장 기능, CLI UX 개선
 
-## [Stop Bus](https://github.com/AJOU-Connection/StopBus_Server) (2018.03~2018.06)
+## [Stop Bus](https://github.com/AJOU-Connection/StopBus_Server) (2018.03 ~ 2018.06)
 
 `#go` `#android` `#javaFX` `#fcm`
 
@@ -101,7 +102,7 @@ Air Bonobono는 안전한 숙소 예약을 제공하는 웹 서비스 입니다.
 자세한 서비스 설명과 시연 영상은 아래 유튜브 영상에 포함되어 있습니다.
 [![Video Label](http://img.youtube.com/vi/CB5LACnRKY4/0.jpg)](https://youtu.be/CB5LACnRKY4?t=0s)
 
-## [ajou-noticer](https://github.com/mjin1220/ajou-noticer) (2018.01~2018.03)
+## [ajou-noticer](https://github.com/mjin1220/ajou-noticer) (2018.01 ~ 2018.03)
 
 `#go` `#facebook` `#chatbot`
 
@@ -117,7 +118,7 @@ ajou-noticer는 설정된 사이트에 공지사항이 업데이트 되면 faceb
   <img src="img/ajou-noticer.png" width="500">
 </p>
 
-## [gongali](https://github.com/mjin1220/gongali) (2017.11~2017.12)
+## [gongali](https://github.com/mjin1220/gongali) (2017.11 ~ 2017.12)
 
 `node.js`
 
