@@ -10,12 +10,17 @@
   - C
   - Go
   - Node.js
-- 라이브러리 / 프레임워크
-  - **Spring Framework**
-  - **jQuery / jQuery UI**
-  - **React**
+- 라이브러리 / 프레임워크 / 
+  - **Spring Boot (with Webflux)**
+  - jQuery / jQuery UI
+  - React
+  - Electron
 - 그 외
-  - Kubernetes(k8s)
+  - **Kubernetes(k8s)**
+  - **Elastic Stack**
+  - Kafka
+  - MySQL
+  - Redis
 
 ## 프로젝트 목록
 
